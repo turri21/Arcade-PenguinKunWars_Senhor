@@ -1,3 +1,7 @@
+-=(PenguinKunWars_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade: Penguin-Kun Wars  port to MiSTer by MiSTer-X
